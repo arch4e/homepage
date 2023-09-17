@@ -41,5 +41,6 @@ author = "arch4e"
 copyright_html = "&copy; 2022-2023 arch4e.com / Theme: <a href=\"https://github.com/pawroman/zola-theme-terminimal/\">Terminimal</a> by pawroman"
 
 menu_items = [
+  {name = "about", url = "$BASE_URL"},
 ]
 
