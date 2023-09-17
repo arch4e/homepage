@@ -43,5 +43,6 @@ copyright_html = "&copy; 2022-2023 arch4e.com / Theme: <a href=\"https://github.
 menu_items = [
   {name = "about", url = "$BASE_URL"},
   {name = "products", url = "$BASE_URL/products"},
+  {name = "posts", url = "$BASE_URL/posts"},
 ]
 
