@@ -1,8 +1,11 @@
 # The URL the site will be built for
 base_url = "https://arch4e.com"
 
+# theme : https://github.com/pawroman/zola-theme-terminimal
+theme = "terminimal"
+
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
+compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
@@ -13,4 +16,15 @@ build_search_index = true
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
+#
+# terminimal
+#
+accent_color = "green"
+background_color = "dark"
+logo_text = "archIVe"
+author = "arch4e"
+copyright_html = "&copy; 2022-2023 arch4e.com / Theme: <a href=\"https://github.com/pawroman/zola-theme-terminimal/\">Terminimal</a> by pawroman"
+
+menu_items = [
+]
+
