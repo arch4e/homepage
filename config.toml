@@ -34,6 +34,7 @@ highlight_code = true
 #
 favicon = "https://fs.arch4e.com/share/favicon.png"
 favicon_mimetype = "image/png"
+page_titles = "combined"
 accent_color = "green"
 background_color = "dark"
 logo_text = "archIVe"
