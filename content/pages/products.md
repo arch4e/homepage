@@ -29,7 +29,7 @@ Download: [Booth](https://arch4e.booth.pm/items/4566568), [GitHub](https://githu
 {{ image(src="https://s2.booth.pm/b1ca9db0-972f-4630-81db-608e5f62176c/i/4566568/4eea9d42-6a52-4dfc-8d6b-d0f004e1a0cb_base_resized.jpg", alt="preview add-on ui", position="center", style="height: 30vh") }}
 
 
-### > ShaKU
+### > ShaKe
 
 Shape Keysの並べ替えを手助けするBlenderアドオンです。
 
@@ -54,12 +54,11 @@ Download: [Booth](https://arch4e.booth.pm/items/4702434)
 ### > 3Dモデル_女性素体 ( 3D Model: female body )
 
 女性3Dモデルの素体です。
-FBXデータのみ版は非商用利用のみ、
-データ一式版は同梱している利用規約の範囲内でご使用ください。
+"FBXデータのみ"版は非商用利用のみ、"データ一式"版は無改変相当での再配布を除き基本的に無制限で使用を許可します。
 
 Download: [Booth](https://arch4e.booth.pm/items/4711126)
 
-{{ image(src="https://s2.booth.pm/b1ca9db0-972f-4630-81db-608e5f62176c/i/4711126/c6ed546c-e649-420a-ba0e-9d412fdd6bca_base_resized.jpg", alt="preview female body model", position="center", style="height: 30vh") }}
+{{ image(src="https://s2.booth.pm/b1ca9db0-972f-4630-81db-608e5f62176c/i/4711126/aacc749c-19cf-49d1-90f9-f4f8c0a4f8f4_base_resized.jpg", alt="preview female body model", position="center", style="height: 30vh") }}
 
 
 ## eBook
